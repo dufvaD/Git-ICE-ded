@@ -14,6 +14,10 @@ class BeeVC: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    @IBAction func handleClick(sender:UIButton){
+        print("ayylmao")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
