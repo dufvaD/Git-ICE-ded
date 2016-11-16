@@ -61,11 +61,11 @@
 				10AF72B11DDA719000416F27 /* AppDelegate.swift */,
 				10AF72B31DDA719000416F27 /* EhVC.swift */,
 				10AF72B51DDA719000416F27 /* BeeVC.swift */,
+				10AF72C51DDA748400416F27 /* SeaVC.swift */,
 				10AF72B71DDA719000416F27 /* Main.storyboard */,
 				10AF72BA1DDA719000416F27 /* Assets.xcassets */,
 				10AF72BC1DDA719000416F27 /* LaunchScreen.storyboard */,
 				10AF72BF1DDA719100416F27 /* Info.plist */,
-				10AF72C51DDA748400416F27 /* SeaVC.swift */,
 			);
 			path = "GIT-ICE-mpn";
 			sourceTree = "<group>";
@@ -294,6 +294,7 @@
 				10AF72C41DDA719100416F27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
